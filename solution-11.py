@@ -12,4 +12,4 @@ if num > 50:
 	if deff40 > 10:
 		deff50=deff40 - 10
 		deff40=10
-	print((40*8)+(deff50 * 10 )  + (deff40 * 9))
+	print((40*8)+(deff50 * 10 ) + (deff40 * 9))
